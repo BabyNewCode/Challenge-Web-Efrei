@@ -55,21 +55,9 @@
 ### **contributors**
 >This project was made possible with the contribution of 
 >
->- Johary Rakotonirina: 
->   - GitHub : https://github.com/Babajii91
->   - Linkdln : https://www.linkedin.com/in/johary-rakotonirina-b902a324b/
->
->- Sami Amokrane: 
->   - GitHub : https://github.com/BabyNewCode
->   - Linkdln : https://www.linkedin.com/in/sami-amokrane-2b0a9a253/
->
 >- Sergio Léon Osias:
 >   - GitHub : https://github.com/Sernny1369
 >   - Linkdln : https://www.linkedin.com/in/sergio-leon-osias/
----
-### **Other Projects** 
 
->* [SmartBike](https://github.com/Xoriax/MVC-Project-SB)
->* [EfreiPicture](https://github.com/Xoriax/PHP-Project-EP)
 
 -----
